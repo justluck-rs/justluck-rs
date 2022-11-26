@@ -1,3 +1,5 @@
+![lucasmjust](https://user-images.githubusercontent.com/108930520/204104031-223c924e-c63e-4a61-a6cb-0d2d46aaef8f.png)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=hello,+my+name+is+Lucas+Mateus;I+from+Brasil,+Fotaleza/CE;I+Software+Engeneering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
