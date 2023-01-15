@@ -4,13 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=hello,+my+name+is+Lucas+Mateus;I+from+Brasil,+Fotaleza/CE;I+Software+Engeneering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=lucasmjust&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Mateus github stats" /> 
-  <img width="41%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmjust&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+  <a href="https://github.com/lucasmjust">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lucasmjust&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmjust&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=lucasmjust&theme=gotham&hide_border=true&area=true)
 
 ### Main skills:
 
