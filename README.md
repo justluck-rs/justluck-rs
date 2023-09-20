@@ -1,4 +1,4 @@
-<h2 align="center">👋FullStack Developer👋</h2>
+<h2 align="center">👋 | Software developer | Web Developer | SQL |👋</h2>
 
 <!-- <br clear="both"> -->
 
